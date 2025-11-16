@@ -1,4 +1,4 @@
-### 📊 Data Jobs Dashboard — Power BI Portfolio Project
+# 📊 Data Jobs Dashboard — Power BI Portfolio Project
 ![Dashboard Page 1](/images/Project1_Page1.png)
 
 
@@ -14,42 +14,48 @@ Whether you're a job seeker, career switcher, or data professional, this dashboa
 
 This project was designed to highlight a wide range of Power BI skills—from data preparation all the way to dashboard design:
 
-## ⚙️ ETL with Power Query
-Cleaned and transformed raw job posting data, handled missing values, standardized formats, and created new calculated fields.
+* ⚙️ ETL with Power Query
 
-## 🧮 Measures & KPIs
-Built measures such as Median Yearly Salary and Job Count to support dynamic visualizations and insights.
+        Cleaned and transformed raw job posting data, handled missing values, standardized formats, and created new calculated fields.
 
-## 📊 Visualization Mastery
-Used a variety of Power BI visuals including bar, column, line, and area charts to help users compare roles and trends.
+* 🧮 Measures & KPIs
 
-## 🗺️ Geospatial Mapping
-Implemented map visuals to display the global distribution of job opportunities.
+        Built measures such as Median Yearly Salary and Job Count to support dynamic visualizations and insights.
 
-## 🔢 KPI Cards & Detailed Tables
-Used card KPIs for key metrics and tables for sortable, data-rich exploration.
+*  📊 Visualization Mastery
+        
+        Used a variety of Power BI visuals including bar, column, line, and area charts to help users compare roles and trends.
 
-## 🎨 UI/UX-Focused Design
-Organized visuals into an intuitive layout, utilizing cohesive color choices and creative chart types to tell a compelling data story.
+* 🗺️ Geospatial Mapping
 
-## 🖱️ Interactivity & Navigation
+        Implemented map visuals to display the global distribution of job opportunities.
 
-Slicers to filter by job title
+*  🔢 KPI Cards & Detailed Tables
 
-Bookmarks & buttons for smooth navigation
+        Used card KPIs for key metrics and tables for sortable, data-rich exploration.
 
-Drill-through pages to explore job titles in depth
+*  🎨 UI/UX-Focused Design
+
+        Organized visuals into an intuitive layout, utilizing cohesive color choices and creative chart types to tell a compelling data story.
+
+*  🖱️ Interactivity & Navigation
+
+        Slicers to filter by job title
+
+        Bookmarks & buttons for smooth navigation
+
+        Drill-through pages to explore job titles in depth
 
 ## 📄 Dashboard Overview
 
 The report includes two pages designed for different levels of analysis.
 
-Page 1 — Market Overview (High-Level Summary)
+### Page 1 — Market Overview (High-Level Summary)
 ![Dashboard Page 1](/images/Project1_Page1.png)
 
 This main dashboard provides a quick understanding of the data job landscape. Users can view total job counts, salary benchmarks, and top job titles in one glance.
 
-Page 2 — Drill-Through: Job Title Details
+### Page 2 — Drill-Through: Job Title Details
 ![Dashboard Page 1](/images/Project1_Page2.png)
 
 Users can drill through from Page 1 into this detailed analysis for a specific job title. It includes salary ranges, remote vs. on-site insights, most active job platforms, and a map of where those roles are located.
